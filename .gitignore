@@ -1,4 +1,7 @@
+# these are input files
 *.txt
+
+# and these are output directories. they are quite large, so no need to clutter the repo with em
 out_*
 out_*/**
 
